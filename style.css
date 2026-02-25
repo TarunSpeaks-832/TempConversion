@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(210, 229, 229);
+}
+
+form{
+    padding-top: 50px;
+    width: 400px;
+    border: 2px solid;
+    text-align: center;
+    background-color:aliceblue;
+    margin: auto;
+    font-weight: bold;
+    padding: 25px;
+
+}
+
+#submitbtn{
+    cursor: pointer;
+    background-color: rgb(9, 9, 9);
+    color: rgb(248, 12, 12);
+    font-weight:bold;
+}
+
+#inputlabel{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius:2px; 
+}
+
+#resultlabel{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
