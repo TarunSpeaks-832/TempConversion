@@ -2,9 +2,6 @@
 A sleek, real-time temperature conversion tool built with JavaScript, HTML5, and CSS3 that instantly calculates values across Celsius, Fahrenheit, and Kelvin scales.
 A minimalist and efficient web utility for converting temperatures between Celsius, Fahrenheit, and Kelvin scales in real-time.
 
-## Live Demo
-[Try the Converter Here!](https://tarunspeaks-832.github.io) *(Update with your actual link)*
-
 ## Key Features
 - **Bi-directional Conversion:** Convert from any scale to the other two simultaneously.
 - **Real-time Updates:** Values update instantly as you type, with no "Calculate" button required.
